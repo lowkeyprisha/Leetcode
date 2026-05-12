@@ -1,30 +1,17 @@
 import java.util.*;
 
 class Solution {
+    public List<List<String>> groupAnagrams(String[] strs) {
 
-    public List<List<String>> groupAnagrams(String[] s) {
+        Map<String,List<String>>map = new HashMap<>();
+        for(String str: strs){
+            char[]chars = str.toCharArray();
 
-        HashMap<String, List<String>> m = new HashMap<>();
-
-        for (String a : s) {
-
-            char[] b = a.toCharArray();
-
-            Arrays.sort(b);
-
-            String c = "";
-
-            for (char d : b) {
-                c += d;
-            }
-
-            if (!m.containsKey(c)) {
-                m.put(c, new ArrayList<>());
-            }
-
-            m.get(c).add(a);
+            Arrays.sort(chars);
+            String key = new String(chars);
+            map.putIfAbsent(key,new ArrayList<>());
+            map.get(key).add(str);
         }
-
-        return new ArrayList<>(m.values());
+        return new ArrayList<>(map.values());
     }
 }
