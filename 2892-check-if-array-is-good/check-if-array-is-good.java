@@ -1,17 +1,34 @@
-import java.util.Arrays;
+import java.util.HashMap;
 
 class Solution {
     public boolean isGood(int[] nums) {
-        Arrays.sort(nums);
 
-        int n = nums.length;
+        int max = 0;
 
-        for (int i = 0; i < n - 1; i++) {
-            if (nums[i] != i + 1) {
+        for (int num : nums) {
+            max = Math.max(max, num);
+        }
+
+        if (nums.length != max + 1) {
+            return false;
+        }
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
+
+        if (map.getOrDefault(max, 0) != 2) {
+            return false;
+        }
+
+        for (int i = 1; i < max; i++) {
+            if (map.getOrDefault(i, 0) != 1) {
                 return false;
             }
         }
 
-        return nums[n - 1] == n - 1;
+        return true;
     }
 }
