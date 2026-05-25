@@ -1,7 +1,7 @@
 class Solution(object):
     def defangIPaddr(self, address):
         """
-        :type address: str
-        :rtype: str
+        Collab with notsoprishiii
+        Shout out to her
         """
         return address.replace('.', '[.]')
