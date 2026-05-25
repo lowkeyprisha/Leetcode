@@ -4,5 +4,15 @@ class Solution(object):
         Shout out to me. 
         FRANKEN_stein
         nd me too notsoprishiii <3
+        
+        This is the best code ever made!!!!! By obviously Shivang
+        nd me toooooo
+        nooo
         """
-        return [i for i, word in enumerate(words) if x in word]
+        result = []
+
+        for i in range(len(words)):
+            if x in words[i]:
+                result.append(i)
+
+        return result
