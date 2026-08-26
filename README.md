@@ -40,6 +40,7 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/lowkeyprisha/Leetcode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lowkeyprisha/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
@@ -65,4 +66,8 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/lowkeyprisha/Leetcode/tree/master/1872-stone-game-viii) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lowkeyprisha/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
