@@ -7,6 +7,7 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/lowkeyprisha/Leetcode/tree/master/1872-stone-game-viii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lowkeyprisha/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lowkeyprisha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lowkeyprisha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
@@ -70,4 +71,12 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lowkeyprisha/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lowkeyprisha/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lowkeyprisha/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
