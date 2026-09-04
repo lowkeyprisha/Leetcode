@@ -13,6 +13,7 @@ LeetCode solutions for DSA and competitive programming practice.
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lowkeyprisha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lowkeyprisha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/lowkeyprisha/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/lowkeyprisha/Leetcode/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/lowkeyprisha/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
 |  |
 | ------- |
