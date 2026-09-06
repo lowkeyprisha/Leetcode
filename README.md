@@ -46,6 +46,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/lowkeyprisha/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/lowkeyprisha/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lowkeyprisha/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
@@ -61,6 +62,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/lowkeyprisha/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/lowkeyprisha/Leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
