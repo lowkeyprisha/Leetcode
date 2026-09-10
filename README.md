@@ -105,4 +105,16 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lowkeyprisha/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lowkeyprisha/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lowkeyprisha/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lowkeyprisha/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
