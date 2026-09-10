@@ -48,6 +48,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lowkeyprisha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/lowkeyprisha/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/lowkeyprisha/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/lowkeyprisha/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -64,6 +65,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lowkeyprisha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/lowkeyprisha/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/lowkeyprisha/Leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -95,4 +97,12 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/lowkeyprisha/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/lowkeyprisha/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/lowkeyprisha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
