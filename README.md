@@ -11,6 +11,7 @@ LeetCode solutions for DSA and competitive programming practice.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lowkeyprisha/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lowkeyprisha/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lowkeyprisha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lowkeyprisha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lowkeyprisha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/lowkeyprisha/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -117,4 +118,16 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/lowkeyprisha/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/lowkeyprisha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/lowkeyprisha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/lowkeyprisha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
