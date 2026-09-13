@@ -6,6 +6,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/lowkeyprisha/Leetcode/tree/master/0835-image-overlap) |
 | [1872-stone-game-viii](https://github.com/lowkeyprisha/Leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/lowkeyprisha/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lowkeyprisha/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -134,4 +135,8 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/lowkeyprisha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/lowkeyprisha/Leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
