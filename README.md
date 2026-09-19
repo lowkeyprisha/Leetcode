@@ -25,6 +25,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## Math
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/lowkeyprisha/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lowkeyprisha/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/lowkeyprisha/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/lowkeyprisha/Leetcode/tree/master/1927-sum-game) |
@@ -156,4 +157,8 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/lowkeyprisha/Leetcode/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/lowkeyprisha/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
