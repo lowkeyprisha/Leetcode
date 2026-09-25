@@ -64,6 +64,7 @@ LeetCode solutions for DSA and competitive programming practice.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lowkeyprisha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/lowkeyprisha/Leetcode/tree/master/0115-distinct-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lowkeyprisha/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/lowkeyprisha/Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lowkeyprisha/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -117,6 +118,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lowkeyprisha/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lowkeyprisha/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lowkeyprisha/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -148,6 +150,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lowkeyprisha/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lowkeyprisha/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lowkeyprisha/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -171,4 +174,16 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
