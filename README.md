@@ -64,6 +64,7 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lowkeyprisha/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/lowkeyprisha/Leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/lowkeyprisha/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lowkeyprisha/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -186,6 +187,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lowkeyprisha/Leetcode/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lowkeyprisha/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lowkeyprisha/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -196,6 +198,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lowkeyprisha/Leetcode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/lowkeyprisha/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/lowkeyprisha/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
