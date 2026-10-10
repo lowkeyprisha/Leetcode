@@ -52,6 +52,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/lowkeyprisha/Leetcode/tree/master/0397-integer-replacement) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lowkeyprisha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -82,6 +83,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/lowkeyprisha/Leetcode/tree/master/0397-integer-replacement) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/lowkeyprisha/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/lowkeyprisha/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/lowkeyprisha/Leetcode/tree/master/1927-sum-game) |
@@ -98,6 +100,7 @@ LeetCode solutions for DSA and competitive programming practice.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lowkeyprisha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/lowkeyprisha/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0397-integer-replacement](https://github.com/lowkeyprisha/Leetcode/tree/master/0397-integer-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lowkeyprisha/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lowkeyprisha/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/lowkeyprisha/Leetcode/tree/master/1872-stone-game-viii) |
@@ -216,4 +219,8 @@ LeetCode solutions for DSA and competitive programming practice.
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/lowkeyprisha/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/lowkeyprisha/Leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
