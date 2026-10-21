@@ -36,9 +36,9 @@ class BIT {
     private long _query(int index) {
         index += 1;
         long rawIndex = index + 1;
-        // if (index > size) {
-        //     index = size;
-        // }
+        if (index > size) {
+            index = size;
+        }
         long res = 0;
         while (index > 0) {
             res += rawIndex * _tree1[index] - _tree2[index];
