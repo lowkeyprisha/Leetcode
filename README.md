@@ -26,6 +26,7 @@ LeetCode solutions for DSA and competitive programming practice.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lowkeyprisha/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lowkeyprisha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/lowkeyprisha/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/lowkeyprisha/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/lowkeyprisha/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/lowkeyprisha/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -63,6 +64,7 @@ LeetCode solutions for DSA and competitive programming practice.
 | ------- |
 | [0397-integer-replacement](https://github.com/lowkeyprisha/Leetcode/tree/master/0397-integer-replacement) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/lowkeyprisha/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/lowkeyprisha/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -117,6 +119,7 @@ LeetCode solutions for DSA and competitive programming practice.
 | [1872-stone-game-viii](https://github.com/lowkeyprisha/Leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lowkeyprisha/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lowkeyprisha/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/lowkeyprisha/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
 | ------- |
@@ -202,6 +205,7 @@ LeetCode solutions for DSA and competitive programming practice.
 | ------- |
 | [0835-image-overlap](https://github.com/lowkeyprisha/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/lowkeyprisha/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/lowkeyprisha/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Geometry
 |  |
 | ------- |
