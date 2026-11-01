@@ -6,6 +6,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/lowkeyprisha/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/lowkeyprisha/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/lowkeyprisha/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lowkeyprisha/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -40,6 +41,7 @@ LeetCode solutions for DSA and competitive programming practice.
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/lowkeyprisha/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/lowkeyprisha/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/lowkeyprisha/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/lowkeyprisha/Leetcode/tree/master/1872-stone-game-viii) |
