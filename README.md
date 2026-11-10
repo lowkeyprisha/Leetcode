@@ -26,6 +26,7 @@ LeetCode solutions for DSA and competitive programming practice.
 | [3525-find-x-value-of-array-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/lowkeyprisha/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3665-twisted-mirror-path-count](https://github.com/lowkeyprisha/Leetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/lowkeyprisha/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/lowkeyprisha/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lowkeyprisha/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -129,6 +130,7 @@ LeetCode solutions for DSA and competitive programming practice.
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/lowkeyprisha/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/lowkeyprisha/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3665-twisted-mirror-path-count](https://github.com/lowkeyprisha/Leetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/lowkeyprisha/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/lowkeyprisha/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
